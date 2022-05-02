@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abu Naiim</h1>
 <h3 align="center">A passionate Full Stack Web developer from Bangladesh</h3>
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abunaiim25)  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p>
 
 - 🔭 I’m currently working on **My Protfolio**
