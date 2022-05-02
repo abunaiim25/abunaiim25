@@ -35,6 +35,12 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 <br/>
 <br/>
 
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+  <br />
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abunaiim25&show_icons=true&locale=en&layout=compact" alt="abunaiim25" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true)  
