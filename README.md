@@ -33,7 +33,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 <br/>
 
-### 👨🏻‍🎓 &nbsp; Education
+### 👨🏻‍🎓 &nbsp; Education:
 
    B.Sc. in Computer Science & Engineering  
    Daffodil International University  
