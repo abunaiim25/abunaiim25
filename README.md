@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abu naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu naiim" height="30" width="40" /></a>
-<a href="https://fb.com/abu naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu naiim" height="30" width="40" /></a>
-<a href="https://instagram.com/abu_naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu_naiim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100010098828694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010098828694" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abu_naiim/?fbclid=iwar3dx7si8xngd3w9k487jzwrezibptoli0i4sn81-qjrofylqvl2-jgdway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abu_naiim/?fbclid=iwar3dx7si8xngd3w9k487jzwrezibptoli0i4sn81-qjrofylqvl2-jgdway" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
