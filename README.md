@@ -26,8 +26,6 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 <a href="https://instagram.com/abu_naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu_naiim" height="30" width="40" /></a>
 </p>
 
-
-<br/>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +33,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 
 <br/>
-
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abunaiim25&show_icons=true&locale=en&layout=compact" alt="abunaiim25" /></p>
 
