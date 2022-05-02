@@ -59,10 +59,10 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 ### Sports / Game / Activities / Hobby:
 
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton
 - 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
 - ✈️ Travelling
 
-
+<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p> 
