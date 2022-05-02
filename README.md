@@ -6,14 +6,6 @@
 Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Development. Contact Me:  abu15-13860@diu.edu.bd
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abu-naiim-516949210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu naiim" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010098828694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu naiim" height="30" width="40" /></a>
-<a href="https://instagram.com/abu_naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu_naiim" height="30" width="40" /></a>
-</p>
-
-
 
 - 🔭 I’m currently working on **My Protfolio**
 
@@ -25,6 +17,13 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 - 📄 Know about my experiences [https://github.com/abunaiim25/AbuNaiim-CV/blob/main/Abu%20Naiim%20-%20CV.pdf](https://github.com/abunaiim25/AbuNaiim-CV/blob/main/Abu%20Naiim%20-%20CV.pdf)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abu-naiim-516949210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu naiim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100010098828694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu naiim" height="30" width="40" /></a>
+<a href="https://instagram.com/abu_naiim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abu_naiim" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
