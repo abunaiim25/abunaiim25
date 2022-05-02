@@ -31,3 +31,8 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abunaiim25&" alt="abunaiim25" /></p>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abunaiim25)  
+
+![Profile views](https://gpvc.arturio.dev/abunaiim25) 
