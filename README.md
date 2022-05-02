@@ -53,6 +53,16 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abunaiim25)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abunaiim25)
+
+<br />
+
+### Sports / Game / Activities / Hobby:
+
+- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
+- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
+- ✈️ Travelling
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p> 
