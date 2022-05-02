@@ -5,7 +5,6 @@
 
 Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Development. Contact Me:  abu15-13860@diu.edu.bd
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p>
 
 - 🔭 I’m currently working on **My Protfolio**
 
