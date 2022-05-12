@@ -7,7 +7,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 
 
 
-- 🔭 I’m currently working on **My Protfolio**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
