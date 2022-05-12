@@ -11,7 +11,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Laravel, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Laravel, React.js**
 
 - 📫 How to reach me **abu15-13860@diu.edu.bd**
 
