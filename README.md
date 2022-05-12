@@ -49,13 +49,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Web Deve
 <br/>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abunaiim25&show_icons=true&locale=en&layout=compact" alt="abunaiim25" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abunaiim25)
-
-<br />
 
 ### Sports / Game / Activities / Hobby:
 
