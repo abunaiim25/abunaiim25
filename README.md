@@ -47,8 +47,6 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
  
 <br/>
-<br/>
-
 
 
 ### Sports / Game / Activities / Hobby:
