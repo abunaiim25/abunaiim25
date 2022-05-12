@@ -7,7 +7,7 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software
 
 
 
-- 🔭 I’m currently working on **Full Stack Web Development**
+- 🔭 I’m currently working on **React.js && Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
