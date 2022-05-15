@@ -7,11 +7,11 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software
 
 
 
-- 🔭 I’m currently working on **React.js && Laravel**
+- 🔭 I’m currently working on **React.js && PHP Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, Laravel, React.js**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, PHP Laravel, React.js**
 
 - 📫 How to reach me **abu15-13860@diu.edu.bd**
 
