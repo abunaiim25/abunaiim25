@@ -27,7 +27,9 @@ Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software
 <br/>
 
 ### Online Problem Solving:
-<a herf="https://www.beecrowd.com.br/judge/en/profile/459105">Beecowd (Uri Online Judge) </a>
+- <a href="https://www.beecrowd.com.br/judge/en/profile/459105">Beecowd (Uri Online Judge) </a>
+<br/>
+
 
 ### 👨🏻‍🎓 &nbsp; Education:
 
