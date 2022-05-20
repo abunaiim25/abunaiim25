@@ -3,7 +3,7 @@
 
 ![A passionate Full Stack Web developer](https://github.com/abunaiim25/abunaiim25/blob/main/about.jpg)
 
-Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software Development. Contact Me:  abu15-13860@diu.edu.bd
+Hello, This is Abu Naiim. I am a Software Engineer. Now I am working on Software Development side. Contact Me:  abu15-13860@diu.edu.bd
 
 
 
