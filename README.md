@@ -1,7 +1,8 @@
 <h1 align="center">Hey 👋, I'm Abu Naiim</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-![A passionate Full Stack Web developer](https://github.com/abunaiim25/abunaiim25/blob/main/gitBG.png)
+![Screenshot 2023-01-30 214139](https://user-images.githubusercontent.com/75266387/215523190-e9f40e85-9367-4c01-9631-a48aa3f06282.png)
+
 
 Hello, It's me Abu Naiim. I am a Software Engineer. Now I am working on Software Development side. Contact Me:  abu15-13860@diu.edu.bd
 
