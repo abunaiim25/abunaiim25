@@ -13,7 +13,7 @@ Contact Me:  abu15-13860@diu.edu.bd
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, PHP Laravel, React.js**
+- 💬 Ask me about **HTML, CSS, CASS, Bootstrap, Javascript, Jquery, Ajax, PHP Laravel, React.js**
 
 - 📫 How to reach me **abu15-13860@diu.edu.bd**
 
