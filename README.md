@@ -1,9 +1,7 @@
 <h1 align="center">Hey 👋, I'm Abu Naiim</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-![which-development-job-is-right-for-you](https://github.com/abunaiim25/abunaiim25/assets/75266387/c193f18f-6d46-4a39-adba-44f1ae4a0aeb)
-
-
+![Graduation](https://github.com/abunaiim25/abunaiim25/assets/75266387/b2278462-d8f6-44ad-bb0b-95cfb4eb1f04)
 
 Hello, It's me Abu Naiim. I am Full-Stack Web Developer. I am working on web & mobile application development more than 1 year. Usually I do web development using Laravel & React.js. I am always ready to learn any new technology and also looking for new opportunities to learn and progress.
 Contact Me:  abu15-13860@diu.edu.bd
