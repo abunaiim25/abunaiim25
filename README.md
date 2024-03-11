@@ -1,4 +1,4 @@
-![Photoleap_11_03_2024_13_11_27_Cq5E2](https://github.com/abunaiim25/abunaiim25/assets/75266387/29048661-9ada-4539-b1a4-986590b7946e)<h1 align="center">Hey 👋, I'm Abu Naiim</h1>
+<h1 align="center">Hey 👋, I'm Abu Naiim</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 ![Graduation](https://github.com/abunaiim25/abunaiim25/assets/75266387/1c1f076a-46d5-477d-9bc2-908716f94880)
