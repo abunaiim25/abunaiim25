@@ -59,8 +59,7 @@ Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, 
 
 ### 💼 &nbsp; Experience:
 
-- **DevOps Engineer** (formerly Jr. Technical Executive) — Business Automation Limited, Dhaka (Jan 2025 – Present)
-  Projects: Rajdhani Unnayan Kartripakkha (RAJUK) & Ministry of Housing and Public Works
+- **DevOps Engineer** — Business Automation Limited, Dhaka (Jan 2025 – Present)
 - **Data Science & Machine Learning Engineer (Intern)** — Business Automation Limited (Aug 2024 – Dec 2024)
 
 <br/>
