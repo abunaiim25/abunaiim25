@@ -2,7 +2,7 @@
 
 ![Graduation](https://github.com/abunaiim25/abunaiim25/assets/75266387/a5b9275d-36d4-4f29-95eb-c2da8cc87982)
 
-**DevOps Engineer** based in Keraniganj, Dhaka, Bangladesh.
+**DevOps Engineer** at Business Automation Ltd., Dhaka, Bangladesh.
 
 I manage production Kubernetes platforms (K8s, k0s, K3s) for government and banking systems in Bangladesh. I focus on secure CI/CD, GitOps, high availability, security hardening and reliable delivery across multiple production environments.
 
