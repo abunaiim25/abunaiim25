@@ -3,7 +3,7 @@
 
 ![Graduation](https://github.com/abunaiim25/abunaiim25/assets/75266387/a5b9275d-36d4-4f29-95eb-c2da8cc87982)
 
-Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, where I work on infrastructure, deployment automation and reliable delivery pipelines for large-scale government projects. I started as a Full Stack Web Developer (Laravel & React.js) and moved into Data Science / Machine Learning before settling into DevOps, so I understand the full path from code to production. I'm always ready to learn new technology and looking for opportunities to grow.
+Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, where I work on infrastructure, deployment automation and reliable delivery pipelines for large-scale government projects and Bank Project. I started as a Full Stack Web Developer (Laravel & React.js) and moved into Data Science / Machine Learning before settling into DevOps, so I understand the full path from code to production. I'm always ready to learn new technology and looking for opportunities to grow.
 
 📫 **Contact:** naiimabu25@gmail.com
 
