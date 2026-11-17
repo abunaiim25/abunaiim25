@@ -83,14 +83,6 @@ Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, 
 
 <br/>
 
-### Contribution:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abunaiim25&show_icons=true&locale=en&layout=compact" alt="abunaiim25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true&locale=en" alt="abunaiim25" /></p>
-
-<br/>
-
 ### Sports / Game / Activities / Hobby:
 
 - 🏏 Cricket, ⚽ Football, 🏸 Badminton
