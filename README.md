@@ -1,72 +1,87 @@
 <h1 align="center">Hey 👋, I'm Abu Naiim</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">DevOps Engineer | Cloud & Automation | Full Stack Background</h3>
 
 ![Graduation](https://github.com/abunaiim25/abunaiim25/assets/75266387/a5b9275d-36d4-4f29-95eb-c2da8cc87982)
 
-Hello, It's me Abu Naiim. I am Full-Stack Web Developer. I am working on web & mobile application development more than 1 year. Usually I do web development using Laravel & React.js. I am always ready to learn any new technology and also looking for new opportunities to learn and progress.
-Contact Me:  abu15-13860@diu.edu.bd
+Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, where I work on infrastructure, deployment automation and reliable delivery pipelines for large-scale government projects. I started as a Full Stack Web Developer (Laravel & React.js) and moved into Data Science / Machine Learning before settling into DevOps, so I understand the full path from code to production. I'm always ready to learn new technology and looking for opportunities to grow.
 
+📫 **Contact:** naiimabu25@gmail.com
 
+<br/>
 
-- 🔭 I’m currently working on **React.js & PHP Laravel**
+- 🔭 I’m currently working on **CI/CD pipelines, containerization, cloud infrastructure & monitoring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abunaiim25?tab=repositories](https://github.com/abunaiim25?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, CASS, Bootstrap, Javascript, Jquery, Ajax, PHP Laravel, React.js, Django, Machine Learning**
+- 💬 Ask me about **Linux, Docker, Kubernetes, CI/CD, GitHub Actions, Jenkins, Terraform, Ansible, AWS, Nginx, Monitoring, Git, PHP Laravel, React.js, Python, Machine Learning**
 
-- 📫 How to reach me **abu15-13860@diu.edu.bd**
+- 🌐 Portfolio: [https://abu-naiim.netlify.app/](https://abu-naiim.netlify.app/)
 
-- 📄 Know about my experiences [https://github.com/abunaiim25/AbuNaiim-CV/blob/main/Abu%20Naiim%20-%20CV.pdf](https://github.com/abunaiim25/AbuNaiim-CV/blob/main/Abu%20Naiim%20-%20CV.pdf)
+- 📄 Know about my experiences: [Abu Naiim - CV](https://github.com/abunaiim25/AbuNaiim-CV/blob/main/Abu%20Naiim%20-%20CV.pdf)
 
 <br/>
 
-<h3 align="left">Web Languages and Tools (Skills):</h3>
-<p align="left"> 
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    </p>
-  
-<br/>
-
-
-<h3 align="left">Others Languages and Tools (Skills):</h3>
+<h3 align="left">DevOps Tools & Skills:</h3>
 <p align="left">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-       </a>
-   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
+   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github actions" width="40" height="40"/> </a>
+   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a>
+   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> </a>
+   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+   <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
+   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a>
+   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
 <br/>
 
-### Online Problem Solving:
-- <a href="https://www.beecrowd.com.br/judge/en/profile/459105" target="_blank" >Beecowd (Uri Online Judge) </a>
+<h3 align="left">Development & Data Skills:</h3>
+<p align="left">
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
+   <a href="https://www.html5.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+</p>
+
 <br/>
 
+### 💼 &nbsp; Experience:
+
+- **DevOps Engineer** (formerly Jr. Technical Executive) — Business Automation Limited, Dhaka (Jan 2025 – Present)
+  Projects: Rajdhani Unnayan Kartripakkha (RAJUK) & Ministry of Housing and Public Works
+- **Data Science & Machine Learning Engineer (Intern)** — Business Automation Limited (Aug 2024 – Dec 2024)
+
+<br/>
 
 ### 👨🏻‍🎓 &nbsp; Education:
 
-   B.Sc. in Computer Science & Engineering  
-   Daffodil International University  
-   Dhaka, Bangladesh.
+- **M.Sc. in Information Technology** — Jahangirnagar University, Savar, Bangladesh (2025 – Present)
+- **B.Sc. in Computer Science & Engineering** — Daffodil International University, Dhaka, Bangladesh (2020 – 2024)
 
- <br />
+<br/>
+
+### Online Problem Solving:
+- <a href="https://www.beecrowd.com.br/judge/en/profile/459105" target="_blank" >Beecrowd (URI Online Judge) </a>
+
+<br/>
 
 ### Languages:
 
 - 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
- 
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Professional working proficiency
+
 <br/>
 
 ### Contribution:
@@ -75,12 +90,7 @@ Contact Me:  abu15-13860@diu.edu.bd
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abunaiim25&show_icons=true&locale=en" alt="abunaiim25" /></p>
 
-
-
-
-
 <br/>
-
 
 ### Sports / Game / Activities / Hobby:
 
@@ -90,7 +100,6 @@ Contact Me:  abu15-13860@diu.edu.bd
 
 <br />
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -99,4 +108,4 @@ Contact Me:  abu15-13860@diu.edu.bd
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abunaiim25&label=Profile%20views&color=0e75b6&style=flat" alt="abunaiim25" /> </p>
