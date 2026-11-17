@@ -66,7 +66,7 @@ Hello, I'm Abu Naiim. I'm a **DevOps Engineer** at Business Automation Limited, 
 
 ### 👨🏻‍🎓 &nbsp; Education:
 
-- **M.Sc. in Information Technology** — Jahangirnagar University, Savar, Bangladesh (2025 – Present)
+- **M.Sc. in Information Technology** — Jahangirnagar University, Savar, Bangladesh (2025 – 2026)
 - **B.Sc. in Computer Science & Engineering** — Daffodil International University, Dhaka, Bangladesh (2020 – 2024)
 
 <br/>
